@@ -5,7 +5,7 @@ and it could use some DRYing up, but they illustrate my methodology
 in the competition as well as how to build logistic regression and 
 random forest models in R.
 
-airbnb.R was used for exploratory model building and feature 
+airbnb.R was used for exploratory model building as well as feature 
 engineering whereby I used empirical probability estimates for a given 
 destination as a feature in the logistic regression model.
 
