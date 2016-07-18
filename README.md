@@ -1,9 +1,9 @@
 # R scripts for the Kaggle Airbnb competition
 
 These scripts may not contain the most elegant R code ever written, 
-and it could use some DRYing up, but they illustrate my methodology 
-in the competition as well as how to build logistic regression and 
-random forest models in R.
+and the code could certainly use some DRYing up, but they illustrate 
+my methodology in the competition as well as how to build logistic 
+regression and random forest models in R.
 
 airbnb.R was used for exploratory model building as well as feature 
 engineering whereby I used empirical probability estimates for a given 
