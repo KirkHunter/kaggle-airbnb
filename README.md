@@ -10,9 +10,10 @@ empirical probability estimates for a given destination as a feature
 in the logistic regression model.
 
 calculate_ndcg.R is my script which allows me to reproduce the unique 
-scoring system used for this competition. More on NDCG here https://www.kaggle.com/wiki/NormalizedDiscountedCumulativeGain
+scoring system used for this competition. 
+More on NDCG here https://www.kaggle.com/wiki/NormalizedDiscountedCumulativeGain
 
 train.R shows my complete model building process all the way through
-creation of the submission file. The models in this script produce my 
-final predictions.
+to creation of the submission file. The models in this script produce 
+my final predictions.
 
