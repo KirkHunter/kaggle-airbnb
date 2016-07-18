@@ -9,7 +9,7 @@ airbnb.R was used for exploratory model building as well as feature
 engineering whereby I used empirical probability estimates for a given 
 destination as a feature in the logistic regression model.
 
-calculate_ndcg.R is my script which allows me to reproduce the unique 
+calculate_ndcg.R is a script which allows me to reproduce the unique 
 scoring system used for this competition. 
 More on NDCG here https://www.kaggle.com/wiki/NormalizedDiscountedCumulativeGain
 
