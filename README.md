@@ -9,8 +9,8 @@ regression and random forest models in R.
 engineering whereby I used empirical probability estimates for a given 
 destination as a feature in the logistic regression model.
 
-- calculate_ndcg.R is a script which allows me to reproduce the unique 
-scoring system used for this competition. 
+- calculate_ndcg.R is where I reproduce the unique scoring system used 
+for this competition in order to evaluate my models. 
 More on NDCG here https://www.kaggle.com/wiki/NormalizedDiscountedCumulativeGain
 
 - train.R shows my complete model building process all the way through
